@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill v2.8 20020720//EN" "http://thomas.loc.gov/dtd/bill.dtd">
+<bill bill-stage="Pre-Introduction" bill-type="olc" dms-id="" public-private="public">
+
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<dublinCore>
+
+<dc:title>The Open Access to Electronic Federal Court Records Act of 2013</dc:title>
+
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+
+<dc:date>2011-01-28</dc:date>
+
+<dc:format>text/xml</dc:format>
+
+<dc:language>EN</dc:language>
+
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+
+</dublinCore>
+
+</metadata>
+
+<form>
+
+		<distribution-code display="yes">I</distribution-code>
+
+		<congress>113th CONGRESS</congress>
+
+		<session>1st Session</session>
+
+		<legis-num>H. R. _____</legis-num>
+
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+
+		<action>
+
+			<action-date date="20110105">January 28, 2013</action-date>
+
+			<action-desc><sponsor name-id="">_____</sponsor>
+
+			 introduced the following bill; which was referred to the
+
+			 <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the <committee-name committee-id="HJU00">Committee on the
+			 Judiciary</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</action-desc>
+
+		</action>
+
+		<legis-type>A BILL</legis-type>
+
+		<official-title>To provide the public with open access to electronic federal court records.</official-title>
+
+	</form>
+
+	<legis-body id="" style="OLC">
+
+		<section id="" section-type="section-one"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the
+
+			 <quote><short-title>Open Access to Electronic Federal Court Records Act of 2013</short-title></quote>.</text>
+
+		</section><section id=""><enum>2.</enum><header>Open access to electronic federal court records.</header>
+
+			<subsection id=""><enum>(a)</enum><header>Repeal of court fees for electronic access to information</header><text display-inline="yes-display-inline">Section 303 of the Judiciary Appropriations Act, 1992, as amended and found in (<external-xref legal-doc="usc" parsable-cite="usc/28/1913">28 U.S.C. 1913 note</external-xref>) is hereby repealed.</text>
+			</subsection>
+			
+			<subsection id=""><enum>(b)</enum><header>Requirement for open access to electronic information</header><text display-inline="yes-display-inline">The Judicial Conference shall not prescribe fees for public access to information available through automatic data processing equipment.</text>
+			</subsection>
+			
+			<subsection id=""><enum>(c)</enum><header>Time requirements</header><text display-inline="yes-display-inline">The Judicial Conference shall comply with subsection (b) for each</text>
+
+				<paragraph id=""><enum>(1)</enum><header>Court of appeals</header><text display-inline="yes-display-inline">Not later than 6 months after the date of enactment of this Act.</text></paragraph>
+				
+				<paragraph id=""><enum>(2)</enum><header>District court</header><text display-inline="yes-display-inline">Not later than 12 months after the date of enactment of this Act.</text></paragraph>
+				
+				<paragraph id=""><enum>(3)</enum><header>Bankruptcy court</header><text display-inline="yes-display-inline">Not later than 18 months after the date of enactment of this Act.</text></paragraph>
+			 
+			 </subsection>
+
+
+			</section></legis-body>
+
+</bill>
+
+
+
+
+
