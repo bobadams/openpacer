@@ -71,8 +71,9 @@
 
 				<quoted-block display-inline="no-display-inline" id="" style="OLC">
 
-					<paragraph id=""><enum>(e)</enum><header>Cost of Providing Electronic Docketing Information</header><text display-inline="yes-display-inline">The federal courts shall charge no fee for public access to information or documents described in subsection (a), or for any services provided by the court to the public for searching or indexing such information or documents.</text>
-				</paragraph><after-quoted-block>.</after-quoted-block></quoted-block>
+					<enum>(e)</enum><header>Cost of Providing Electronic Docketing Information</header><text display-inline="yes-display-inline">The federal courts shall charge no fee for public access to information or documents described in subsection (a), or for any services provided by the court to the public for searching or indexing such information or documents.</text>
+				
+				<after-quoted-block>.</after-quoted-block></quoted-block>
 
 			</subsection>
 			
